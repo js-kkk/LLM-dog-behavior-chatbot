@@ -19,12 +19,12 @@
 ##  주제 선정 이유 
 
 <figure  style="text-align: center;">
-<img src="./img/반려동물_증가.png">
+<img src="https://github.com/user-attachments/assets/89be93f9-8d89-44ec-8bcc-4b219334811d">
 <figcaption>2022년 기준 약 602만 가구(전체 가구의 25.4%)가 반려동물을 키우고 있으며, 이는 2012년 364만 가구에서 10년간 65% 이상 증가한 수치</figcaption>
 </figure>
 
 <figure  style="text-align: center;">
-<img src="./img/파양고민.png">
+<img src="https://github.com/user-attachments/assets/3a661583-c3f0-4d62-9cea-0474d28bd412">
 <figcaption>반려동물의 양육 포기나 파양 고려 설문 결과 </figcaption>
 </figure>
 
