@@ -167,7 +167,7 @@
 ## 백터DB 구축
 **사용한 DB : FAISS**<br/>
 [FAISS DB 생성 코드](./db/json_to_faiss.py)<br/>
-[FAISS DB 폴더](./db/faissdb)
+[FAISS DB 폴더](https://www.notion.so/ohgiraffers/DB-1f3649136c11808e8934d1385dc0e13d?pvs=25)
 
 
 
