@@ -34,11 +34,6 @@
 - [[포켓이슈] 반려동물 양육자 4명 중 1명 "파양 고려했다"…왜?](https://www.yna.co.kr/view/AKR20220107047400797#:~:text=%EA%B8%B8%EC%9D%B4%EB%82%98%20%EA%B3%B5%EC%9B%90%EC%9D%84%20%EA%B1%B7%EB%8B%A4%20%EB%B3%B4%EB%A9%B4%20%EB%B0%98%EB%A0%A4%EA%B2%AC%EA%B3%BC,%EC%96%91%EC%9C%A1%EC%9E%90%EB%93%A4%EC%9D%84%20%EC%89%BD%EA%B2%8C%20%EB%B3%BC%20%EC%88%98%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4)
 
 
-# 기술 스택
-
-# 시스템 아키텍처
-![Image](https://github.com/user-attachments/assets/089a6aac-f109-4953-a891-43d8ea3fe077) 
-
 ## ✅ 기술 스택 및 사용한 모델
 
 <table>
@@ -92,6 +87,10 @@
   </tr>
 </table>
 
+
+
+# 시스템 아키텍처
+![Image](https://github.com/user-attachments/assets/089a6aac-f109-4953-a891-43d8ea3fe077) 
 
 # WBS
 
