@@ -1,0 +1,29 @@
+{
+  "id": "dachshund",
+  "title": "닥스훈트 견종 정보",
+  "text_chunks": [
+    "닥스훈트는 뼈가 다른 견종에 비해 특별하게 돌출되어 있으며, 다리가 짧은 것이 아니라 허리가 긴 것이 특징입니다. 이 견종을 키우는 많은 분들이 사랑과 애정을 가지고 있으며, 가정에 들어가면 종종 이상한 상황이 발생하기도 합니다. 예를 들어, 거실에 솜이 있거나 침대에 신발이 놓여있는 경우가 많습니다.",
+    "닥스훈트는 똑똑한 견종으로, 교육이 중요합니다. 이들은 머리가 좋기 때문에 숨겨놓은 물건을 쉽게 찾아낼 수 있습니다. 그러나 교육을 잘하면 문제를 해결할 수 있습니다. 이들은 제한적인 사회성을 가지고 있으며, 낯선 사람에게는 경계심을 보입니다.",
+    "어릴 때부터 교육을 시키는 것이 중요하며, 사회화 훈련을 통해 다양한 경험을 쌓게 해야 합니다. 닥스훈트를 입양하기 전에 충분한 준비가 필요합니다. 이들은 짖는 경향이 강하기 때문에 이웃과의 관계에서도 주의해야 합니다.",
+    "닥스훈트는 가족에 대한 충성심이 강하지만, 낯선 사람에 대해서는 경계심을 보입니다. 그들은 주인의 가족을 보호하려는 본능이 강하기 때문에, 의심이 가는 상황에서는 공격적인 행동을 보일 수 있습니다.",
+    "이 견종은 배변 교육이 어려울 수 있지만, 노력하면 잘 따라옵니다. 닥스훈트를 키우고 싶다면, 이들의 특성을 이해하고 함께 노력하는 것이 중요합니다. 이들은 사랑스러운 반려견이 될 수 있습니다."
+  ],
+  "metadata": {
+    "origin": "Germany",
+    "size": "Small",
+    "breed_group": "Hound",
+    "fur_type": "Short-haired, Long-haired, Wire-haired",
+    "trainability": "High",
+    "activity_level": "Moderate",
+    "separation_anxiety": true,
+    "family_friendly": true,
+    "aggression_tendency": "Moderate",
+    "health_issues": [
+      "Intervertebral disc disease",
+      "Obesity"
+    ],
+    "grooming_needs": "Low",
+    "guard_ability": "Moderate",
+    "difficulty_score": 4
+  }
+}

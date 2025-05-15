@@ -1,0 +1,27 @@
+{
+  "id": "breed_foxterrier",
+  "title": "폭스테리어 견종 정보",
+  "text_chunks": [
+    "폭스테리어는 영국을 상징하는 견종으로, 여러 다양한 견종들이 혼합되어 만들어졌습니다. 이들은 주로 쥐잡기와 여우사냥에 사용되었으며, 기질이 강하고 머리가 좋습니다. 폭스테리어는 두 가지 타입이 있으며, 털이 긴 와이어 폭스테리어와 짧은 스무스 폭스테리어가 있습니다.",
+    "폭스테리어는 뛰어난 점프 능력을 가지고 있어, 높은 곳에 있는 물건을 쉽게 꺼내거나 집안에서 활발하게 뛰어다닐 수 있습니다. 이들은 특히 놀이에 대한 욕구가 강해, 주인이 공을 던지면 신속하게 반응합니다. 그러나 이로 인해 겨울철에는 다른 강아지와의 충돌이 발생할 수 있으니 주의가 필요합니다.",
+    "이 견종은 훈련이 잘 되지만, 아질리티 대회에서 점수가 잘 나오지 않는 경우도 있습니다. 이는 빠른 속도에도 불구하고 회전이 약하기 때문입니다. 건강 상태는 대체로 양호하나, 관절 관련 문제는 발생할 수 있습니다.",
+    "폭스테리어는 털 빠짐이 적고, 얼굴 표정이 잘 드러나지 않는 특성이 있습니다. 이들은 장난기가 많아, 충분한 운동과 훈련이 필요합니다. 보호자가 이들을 잘 관리하면 최고의 반려견이 될 수 있습니다."
+  ],
+  "metadata": {
+    "origin": "United Kingdom",
+    "size": "Medium",
+    "breed_group": "Terrier",
+    "fur_type": "Wire and Smooth",
+    "trainability": "Moderate",
+    "activity_level": "High",
+    "separation_anxiety": true,
+    "family_friendly": true,
+    "aggression_tendency": "Low",
+    "health_issues": [
+      "Joint problems"
+    ],
+    "grooming_needs": "Low",
+    "guard_ability": "Moderate",
+    "difficulty_score": 12.5
+  }
+}

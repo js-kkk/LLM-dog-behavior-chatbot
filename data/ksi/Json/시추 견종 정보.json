@@ -1,0 +1,29 @@
+{
+  "id": "shih-tzu",
+  "title": "시추 견종 정보",
+  "text_chunks": [
+    "시추는 독특한 외모와 성격으로 많은 사람들에게 사랑받는 견종입니다. 이들은 왕실에서 기르던 개로서, 약 2000년 전 라사압소와 패키니지를 교배하여 탄생했습니다. 시추의 특징은 짧은 주둥이와 귀여운 외모로, 주로 흰색 바탕에 갈색 무늬가 있습니다. 이들은 주둥이가 짧아 부정교합이 있는 경우가 많습니다.",
+    "시추는 일반적으로 알레르기를 덜 일으키는 견종으로, 사람들에게 알레르기를 일으키는 주된 원인은 털이 아닌 비듬이라는 점에서 이들은 상대적으로 안전합니다. 그러나 시추는 감정을 잘 표현하지 않아서, '할머니게'라는 별명이 붙기도 합니다. 이들은 조용하고 착하며, 아픔을 잘 표현하지 않아 주의가 필요합니다.",
+    "이 견종은 주기적으로 병원에 가야 하며, 아프다고 하지 않는 경우가 많습니다. 또한, 시추는 똥을 먹는 경향이 있어, 이를 잘 관리해야 합니다. 이들은 활동량이 낮아 동네 한 바퀴 정도의 산책으로도 충분합니다. 그러나 이들은 주의 깊은 관찰이 필요하며, 건강 문제로는 안구 질환, 호흡기 문제, 피부 민감성이 있습니다.",
+    "시추는 훈련의 난이도가 낮고, 가족 친화적인 성격 덕분에 아이들과 잘 어울립니다. 이들은 매우 착한 성격을 가지고 있어, 책임감 있는 주인에게 잘 맞는 견종입니다. 유기견 보호소에서 시추를 입양하는 것도 좋은 선택이 될 수 있습니다."
+  ],
+  "metadata": {
+    "origin": "China",
+    "size": "Small",
+    "breed_group": "Toy",
+    "fur_type": "Medium length, double coat",
+    "trainability": "Easy",
+    "activity_level": "Low",
+    "separation_anxiety": true,
+    "family_friendly": true,
+    "aggression_tendency": "Low",
+    "health_issues": [
+      "Eye diseases",
+      "Respiratory issues",
+      "Skin sensitivity"
+    ],
+    "grooming_needs": "Moderate",
+    "guard_ability": "Low",
+    "difficulty_score": 3
+  }
+}

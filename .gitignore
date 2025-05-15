@@ -1,0 +1,7 @@
+data/Audio/*
+# data/Text/*
+# data/Json/*
+*.pyc
+chroma_db
+crawling_kinship.ipynb
+.env

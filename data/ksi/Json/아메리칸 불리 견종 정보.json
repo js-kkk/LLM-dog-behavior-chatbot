@@ -1,0 +1,31 @@
+{
+  "id": "breed_american_bully",
+  "title": "아메리칸 불리 견종 정보",
+  "text_chunks": [
+    "아메리카 불리는 최근 10년 이내에 등장한 견종으로, 핏불과 아메리칸 스테퍼드셔 테리어를 믹스하여 만들어졌습니다. 이 과정은 다소 논란이 있으며, 일부 사람들은 이 견종이 위험하다고 생각합니다. 하지만 아메리카 불리는 성격이 좋고 훈련성도 뛰어난 견종입니다.",
+    "이 견종은 미국의 가난한 지역에서 태어난 것으로, 사람들의 외모에 대한 선호에 따라 만들어졌습니다. 그 결과, 아메리카 불리는 건강해 보이지만, 제대로 걷지 못하는 경우도 많습니다. 많은 협회에서 이 견종을 인정하지 않지만, UKC와 아메리칸 불리 클럽에서는 인정하고 있습니다.",
+    "아메리카 불리는 훈련이 잘 되고, 활동적이며, 보호자가 강한 체력을 요구합니다. 이들은 흥분할 때 물 수 있는 경향이 있으며, 이로 인해 주의가 필요합니다. 어떤 경우에는 흥분으로 인해 물린 경험이 있을 수 있습니다.",
+    "이 견종은 다양한 건강 문제를 가질 수 있으며, 호흡기, 턱 관절, 고관절 문제 등이 있습니다. 또한, 피부 질환이 발생할 수 있는 경향도 있습니다. 이러한 문제들은 비정상적인 신체 구조로 인해 발생할 수 있습니다.",
+    "아메리카 불리는 성격이 온순하고 착한 경우가 많지만, 이 견종에 대한 오해가 존재합니다. 따라서 아메리카 불리를 키우는 사람들은 이 견종의 특성을 이해하고, 책임감 있게 관리해야 합니다."
+  ],
+  "metadata": {
+    "origin": "United States",
+    "size": "Medium",
+    "breed_group": "Mixed Breed",
+    "fur_type": "Short",
+    "trainability": "High",
+    "activity_level": "High",
+    "separation_anxiety": true,
+    "family_friendly": true,
+    "aggression_tendency": "Moderate",
+    "health_issues": [
+      "Respiratory issues",
+      "Jaw joint problems",
+      "Hip dysplasia",
+      "Skin disorders"
+    ],
+    "grooming_needs": "Low",
+    "guard_ability": "Moderate",
+    "difficulty_score": 4
+  }
+}

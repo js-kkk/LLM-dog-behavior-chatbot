@@ -1,0 +1,30 @@
+{
+  "id": "breed_frenchbulldog",
+  "title": "프렌치 불독 견종 정보",
+  "text_chunks": [
+    "프렌치 불독은 최근 미국에서 인기 순위 1위에 오른 견종입니다. 이 견종은 큰 머리와 귀가 특징이며, 귀는 박쥐처럼 생겼습니다. 앞다리는 항아리처럼 생겨서 독특한 외모를 가지고 있습니다. 요즘에는 미니 프렌치 불독도 등장했으며, 이들은 반려견으로서의 역할을 하게 되었습니다.",
+    "프렌치 불독은 매우 사교적이며, 대부분의 경우 공격적인 성향은 없습니다. 그러나 몇몇 개체에서는 공격성이 남아있을 수 있습니다. 이들은 사람들에게 만지는 것을 싫어할 수 있으며, 그들의 기분을 잘 파악하는 것이 중요합니다.",
+    "프렌치 불독은 운동신경이 좋지만 수영을 잘 하지 못합니다. 또한, 이들은 털이 짧고 평균적으로 다른 견종에 비해 털 빠짐이 적습니다. 이들은 침을 덜 흘리는 불독으로 알려져 있습니다.",
+    "프렌치 불독은 출산 시 자연 분만이 어려워 대부분 제왕절개로 태어납니다. 이들은 짧은 주둥이로 인해 호흡에 스트레스를 받을 수 있으며, 여름철에는 산책을 자제하는 것이 좋습니다.",
+    "프렌치 불독은 매력적인 외모와 성격을 가지고 있으며, 두 번째 강아지를 고려할 때 많은 사람들이 이 견종을 다시 선택할 것입니다."
+  ],
+  "metadata": {
+    "origin": "France",
+    "size": "Small",
+    "breed_group": "Non-Sporting",
+    "fur_type": "Short",
+    "trainability": "Moderate",
+    "activity_level": "Low",
+    "separation_anxiety": true,
+    "family_friendly": true,
+    "aggression_tendency": "Low",
+    "health_issues": [
+      "Skin allergies",
+      "Breathing difficulties",
+      "Hip dysplasia"
+    ],
+    "grooming_needs": "Low",
+    "guard_ability": "Low",
+    "difficulty_score": 3
+  }
+}

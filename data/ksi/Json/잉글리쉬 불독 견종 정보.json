@@ -1,0 +1,31 @@
+{
+  "id": "breed_englishbulldog",
+  "title": "잉글리쉬 불독 견종 정보",
+  "text_chunks": [
+    "안녕하세요 훈련사 가영입니다. 오늘 견종백과는 잉글리쉬 불독입니다. 우리나라 분들은 불독이라고 하면 다 프렌치 불독을 생각하더라고요. 그런데 불독의 어떤 근원은 잉글리쉬 불독이 아닐까 합니다. 사실 불독이라는 말 안에는 불...자가 있잖아요. BULL, 이게 소라는 뜻인데 특히 숯소를 말합니다. 숯소를 무는 개들을 불독이라고 했습니다.",
+    "불베이팅이라는 놀이에서 시작된 이 스포츠는 소를 물고 싸우는 것이었고, 1800년대에 너무 잔혹한 스포츠라는 이유로 중지되었습니다. 하지만 불독은 영국의 애호가들에 의해 지금의 모습으로 발전하게 되었습니다. 성격은 친절하고 다정하며 사교적이지만, 안타깝게도 그 모든 것들을 표정으로 잘 나타내지 못합니다.",
+    "불독은 다양한 색깔을 가지고 있으며, 대체로 흰색과 갈색 또는 브린들이 섞인 색깔이 많습니다. 코의 위치는 소를 물고도 숨을 잘 쉬게 하기 위해 계량된 것입니다. 그러나 비공협착 코를 가진 불독도 있어, 기능적으로 문제가 발생할 수 있습니다.",
+    "불독의 꼬리는 보통 말려 있으며, 건강상의 이유로 꼬리를 자르는 경우도 있습니다. 불독은 여러 건강 문제를 가지고 있으며, 특히 나이가 들면서 수술을 많이 하게 됩니다. 눈꺼풀이 안구를 찌르거나 관절 문제를 겪는 경우가 많습니다.",
+    "불독을 키우려면 많은 관리가 필요하며, 특히 피부와 관련된 문제를 신경 써야 합니다. 건강 관리를 소홀히 하면 병원에 가야 하는 일이 많아집니다. 불독은 관리가 힘든 견종이기 때문에 신중하게 생각하고 결정해야 합니다."
+  ],
+  "metadata": {
+    "origin": "United Kingdom",
+    "size": "Medium",
+    "breed_group": "Non-Sporting",
+    "fur_type": "Short",
+    "trainability": "Moderate",
+    "activity_level": "Low to Moderate",
+    "separation_anxiety": true,
+    "family_friendly": true,
+    "aggression_tendency": "Low",
+    "health_issues": [
+      "Brachycephalic obstructive airway syndrome",
+      "Hip dysplasia",
+      "Skin allergies",
+      "Eye problems"
+    ],
+    "grooming_needs": "Low",
+    "guard_ability": "Low",
+    "difficulty_score": 12
+  }
+}

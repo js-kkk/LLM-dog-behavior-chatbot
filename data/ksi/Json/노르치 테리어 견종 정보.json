@@ -1,0 +1,29 @@
+{
+  "id": "norwich_terrier",
+  "title": "노르치 테리어 견종 정보",
+  "text_chunks": [
+    "안녕하세요, 훈련사 강영호입니다. 오늘 소개해드릴 견종은 노르치 테리어입니다. 이 친구의 이름은 마테오예요. 마테오라는 이름은 스페인 남자 이름 중에서 가장 흔한 이름 중 하나입니다. 우리나라에서 이 친구들이 점점 인기를 끌고 있는 것에 대해 기분이 좋습니다. 과거에 몇 마리의 노르치 테리어를 키우셨던 분들을 알고 있었고, 그 분들이 영국 유학 중에 이 친구들을 보고 싶어 하셨던 기억이 납니다.",
+    "노르치는 영국의 노퍼 카운티에 있는 지역의 이름으로, 노르치 테리어는 노퍼 테리어와의 차이점이 귀 모양뿐입니다. 과거에는 두 견종이 하나였으나, 시간이 지나면서 갈라졌습니다. 노르치 테리어는 산업화가 많이 진행된 지역에서 반려견으로 살아온 역사가 있어 다른 테리어들보다 좀 더 얌전한 성격을 가지고 있습니다.",
+    "노르치 테리어는 성격이 좋고, 에너지는 많지만 지구력은 뛰어나지 않습니다. 이 친구들은 심장병과 비강 문제, 슬개골 문제 등 건강 이슈가 있을 수 있으나, 일반적으로 건강한 편입니다. 또한, 이 친구들은 털이 조금 거칠고, 활동량이 적은 편이어서 초보자에게 적합한 견종일 수 있습니다.",
+    "하지만 한국에서는 노르치 테리어의 수요가 많지 않아 근친 교배에 대한 우려가 있습니다. 이 견종이 인기를 얻으면 무분별한 번식으로 건강 문제가 발생할 수 있으니 주의가 필요합니다. 노르치 테리어는 귀엽고 근육질의 몸매를 가지고 있으며, 사람들에게 많은 사랑을 받을 것입니다."
+  ],
+  "metadata": {
+    "origin": "United Kingdom",
+    "size": "Small",
+    "breed_group": "Terrier",
+    "fur_type": "Wire-haired",
+    "trainability": "Moderate",
+    "activity_level": "Moderate",
+    "separation_anxiety": true,
+    "family_friendly": true,
+    "aggression_tendency": "Low",
+    "health_issues": [
+      "Heart disease",
+      "Brachycephalic issues",
+      "Patellar luxation"
+    ],
+    "grooming_needs": "Moderate",
+    "guard_ability": "Low",
+    "difficulty_score": 3
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "breed_old_english_sheepdog",
+  "title": "올드 잉글리쉬 쉽독 견종 정보",
+  "text_chunks": [
+    "올드 잉글리쉬 쉽독은 최근에 인기가 급증한 견종입니다. 과거에는 양치기 개로 사용되었으며, 그 덕분에 많은 사람들에게 사랑받고 있습니다. 이 견종은 특히 유럽에서 양떼를 지키는 역할을 하였고, 보도콜리와 함께 일하는 경우가 많았습니다.",
+    "올드 잉글리쉬 쉽독은 일반적으로 털이 풍성하고, 나이가 들수록 더욱 빵빵한 외모를 가집니다. 이들은 아이라인이 없는 경우가 많아, 째려보는 것처럼 보일 수 있습니다. 꼬리는 보통 아래로 향하고 있으며, 이는 이 견종의 특징 중 하나입니다.",
+    "이 견종은 비어디드 콜리와 유사한 점이 많지만, 사이즈나 털 모양에서 차이가 있습니다. 올드 잉글리쉬 쉽독은 가족에 대한 애착이 강하며, 보호자와의 유대감이 깊습니다. 이들은 항상 보호자를 관찰하고, 필요한 것을 파악하는 능력이 뛰어납니다.",
+    "건강 문제로는 고관절 문제와 눈병이 발생할 수 있습니다. 또한, 체리아이와 같은 질병에 걸리기도 합니다. 이러한 건강 문제를 염두에 두고, 올드 잉글리쉬 쉽독을 키우는 것이 중요합니다.",
+    "이 견종은 매우 애정이 깊고, 보호자와 함께 시간을 보내는 것을 좋아합니다. 하지만 침을 많이 흘리는 경향이 있어, 깔끔한 환경을 원하는 사람에게는 단점이 될 수 있습니다. 그럼에도 불구하고, 이들은 가족과 함께하는 시간을 소중히 여기는 수호천사 같은 존재입니다."
+  ],
+  "metadata": {
+    "origin": "England",
+    "size": "Medium to Large",
+    "breed_group": "Herding",
+    "fur_type": "Long and shaggy",
+    "trainability": "Moderate",
+    "activity_level": "High",
+    "separation_anxiety": true,
+    "family_friendly": true,
+    "aggression_tendency": "Low",
+    "health_issues": [
+      "Hip dysplasia",
+      "Eye diseases",
+      "Cherry eye"
+    ],
+    "grooming_needs": "High",
+    "guard_ability": "Moderate",
+    "difficulty_score": 4
+  }
+}

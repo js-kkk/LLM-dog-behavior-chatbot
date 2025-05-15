@@ -1,0 +1,28 @@
+{
+  "id": "bernese_mountain_dog",
+  "title": "버니지 마운틴 독 견종 정보",
+  "text_chunks": [
+    "이 친구들이 난이도가 그렇게 높지 않습니다. 장점도 많고 단점이 없는 친구인데, 보통 성격이 매우 좋습니다. 이 친구는 버니지 마운틴 독으로, 마운틴 독은 알겠는데 버니지는 뭐냐고요? 베른이라는 지역을 영어로 표현한 것입니다. 우리는 편하게 버너라고 부릅니다.",
+    "버니지 마운틴 독의 기본적인 털 색깔은 턱시도 형식이며, 가슴에는 스위스 국기의 십자가 모양이 있습니다. 대체로 마운틴 독은 암컷과 수컷의 사이즈 차이가 크며, 스컷은 더 크고 근육질입니다. 이 대형견들은 고관절 문제로 사망하는 경우도 있어 주의가 필요합니다.",
+    "버니지 마운틴 독은 리트리버 같은 성격을 지니고 있으며, 매우 활동적이고 애교가 많습니다. 사람들과의 친화력이 뛰어나고, 기본적으로 성격이 좋습니다. 이 친구들은 산책을 좋아하고 운동량이 많아, 하루에 한 두 번의 산책이 필요합니다.",
+    "훈련을 조금 시키지 않으면 활발한 성격 때문에 산책할 때 끌려다닐 수 있습니다. 이 친구들은 대체로 사람들에게 매우 친절하며, 가정견으로서도 완벽한 선택입니다. 하지만 입양 시에는 건강 상태를 꼼꼼히 체크해야 합니다."
+  ],
+  "metadata": {
+    "origin": "Switzerland",
+    "size": "Large",
+    "breed_group": "Working",
+    "fur_type": "Medium-length, double coat",
+    "trainability": "Moderate",
+    "activity_level": "High",
+    "separation_anxiety": true,
+    "family_friendly": true,
+    "aggression_tendency": "Low",
+    "health_issues": [
+      "Hip dysplasia",
+      "Elbow dysplasia"
+    ],
+    "grooming_needs": "Moderate",
+    "guard_ability": "Moderate",
+    "difficulty_score": 6
+  }
+}

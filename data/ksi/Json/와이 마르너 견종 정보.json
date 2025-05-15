@@ -1,0 +1,28 @@
+{
+  "id": "weimaraner",
+  "title": "와이 마르너 견종 정보",
+  "text_chunks": [
+    "특징 중 하나가 분리불안입니다. 이 친구들은 보호자를 너무 좋아하고, 그로 인해 분리불안이 심해질 수 있습니다. 와이 마르너는 영국의 포인터와 그레이트 댄이 교배되어 만들어졌으며, 그레이트 댄의 성격이 영향을 미쳤습니다. 이들은 경호견으로 많이 쓰이기도 합니다.",
+    "와이 마르너는 조렵견으로서의 역사를 가지고 있으며, 독일에서 대동물 사냥이 금지되면서 반려견으로 개량되었습니다. 이 친구들은 매우 활동적이며, 키우기 위해서는 많은 운동이 필요합니다. 운동량이 매우 많아 달리기나 자전거 타기를 함께 해줘야 합니다.",
+    "이 견종은 눈이 노란색으로 변하며, 어릴 때는 파란색이었던 경우도 있습니다. 와이 마르너를 키우려면 많은 시간과 노력이 필요하며, 훈련도 필수적입니다. 앉고 엎드리고 기다리는 훈련을 통해 이 친구들이 한국 생활에 잘 적응할 수 있도록 도와줄 수 있습니다.",
+    "이들은 털 빠짐이 적은 편이지만, 단모종 치고는 털 빠짐이 있을 수 있습니다. 건강한 식습관도 중요하며, 독일 사료를 주는 것이 좋습니다. 이 친구들은 매우 잘생기고 애교가 많지만, 키우기 위해서는 여유가 필요합니다."
+  ],
+  "metadata": {
+    "origin": "Germany",
+    "size": "Large",
+    "breed_group": "Sporting",
+    "fur_type": "Short",
+    "trainability": "High",
+    "activity_level": "Very High",
+    "separation_anxiety": true,
+    "family_friendly": true,
+    "aggression_tendency": "Low",
+    "health_issues": [
+      "Hip dysplasia",
+      "Bloat"
+    ],
+    "grooming_needs": "Low",
+    "guard_ability": "Moderate",
+    "difficulty_score": 8
+  }
+}
