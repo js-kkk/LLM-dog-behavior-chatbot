@@ -7,7 +7,7 @@
 
 | 김상익 | 김장수 | 김한솔 | 전유빈 |
 |--------|--------|--------|-------|
-| <img src="./img/si.png" width="180" height="180"> | <img src="./img/js.jpg" width="180" height="180"> | <img src="./img/hansol.png" width="180" height="180"> | <img src="./img/yb.jpeg" width="180" height="180"> |
+| ![Image](https://github.com/user-attachments/assets/79f6731d-9c2c-40a3-b2a0-eeac0fee4398) | ![Image](https://github.com/user-attachments/assets/5bb86638-2fd7-44ee-a7e5-f23c6c5d3357) | ![Image](https://github.com/user-attachments/assets/78a17566-cdd5-4974-998c-03db1c9c49e0) | ![Image](https://github.com/user-attachments/assets/e81a28d4-1dcd-4625-9052-4cb66afe1475) |
 
 </div>
 
@@ -102,10 +102,8 @@
 
 # 요구사항 명세서
 
-<figure  style="text-align: center;">
-<img src="./img/요구사항명세서3.png">
-<figcaption></figcaption>
-</figure>
+![Image](https://github.com/user-attachments/assets/6dcf8a41-7fa9-4096-9135-c91124c1c084)
+
 
 # 📂 데이터 수집 및 전처리
 
