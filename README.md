@@ -96,7 +96,7 @@
 # WBS
 
 <figure  style="text-align: center;">
-<img src="./img/wbs.png">
+<img src="https://media.discordapp.net/attachments/1368557343834509486/1372390016927666176/image.png?ex=6826994d&is=682547cd&hm=fb96ae63a0ba19550285d3da55fab0a6819d6a4544bc9bca4b21a3c607f82c06&=&format=webp&quality=lossless&width=3104&height=670">
 <figcaption></figcaption>
 </figure>
 
